@@ -1,0 +1,2 @@
+# KALY
+Kestävät älyratkaisut (KÄLY)
