@@ -12,4 +12,8 @@ Tämä repositorio sisältää hakemiston KÄLY:n julkisiin projektimateriaaleih
 - ### Metsälaidun (NOURL)
 
 -----
-![Logot](/img/logot/license.png "License")
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/img/logot/license.png">
+  <source media="(prefers-color-scheme: light)" srcset="/img/logot/license_lightmode.png">
+  <img alt="License logo" src="/img/logot/license.png">
+</picture>
