@@ -1,3 +1,4 @@
+![KalyLogo](/img/logot/logo.png "Logo")
 # KALY
 KÄLY (Kestävät älyratkaisut) on Lapin AMK:n hallinnoima hanke, jossa kytketään kestävyyttä, kiertotaloutta ja vastuullisuutta yhteen digitaalisuuden ja älyratkaisujen kanssa.
 Tämä repositorio sisältää hakemiston KÄLY:n julkisiin projektimateriaaleihin.
@@ -11,4 +12,4 @@ Tämä repositorio sisältää hakemiston KÄLY:n julkisiin projektimateriaaleih
 - ### Metsälaidun (NOURL)
 
 -----
-Hankelogo, Rahoittaja, Lisenssi-info
+![Logot](/img/logot/license.png "License")
