@@ -5,7 +5,7 @@ Tämä repositorio sisältää hakemiston KÄLY:n julkisiin projektimateriaaleih
 # Hanketavoitteista lyhyt kappale
 
 ## Projektit
-- ### Verijälki (NOURL)
+- ### [Verijälki](https://github.com/LaplandUAS/Verijalki)
 - ### Kahvilaskuri (NOURL)
 - ### Mäskitikku (NOURL)
 - ### Metsälaidun (NOURL)
