@@ -7,7 +7,7 @@ Tämä repositorio sisältää hakemiston KÄLY:n julkisiin projektimateriaaleih
 
 ## Projektit
 - ### [Verijälki](https://github.com/LaplandUAS/Verijalki)
-- ### Kahvilaskuri (NOURL)
+- ### [Kahvilaskuri](https://github.com/LaplandUAS/Coffee-Tally)
 - ### Mäskitikku (NOURL)
 - ### Metsälaidun (NOURL)
 
