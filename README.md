@@ -6,7 +6,7 @@ Tämä repositorio sisältää hakemiston KÄLY:n julkisiin projektimateriaaleih
 # Hanketavoitteista lyhyt kappale
 
 ## Projektit
-- ### [Verijälki](https://github.com/LaplandUAS/Verijalki)
+- ### [Verijälki](https://github.com/LaplandUAS/BloodTrail-Drone)
 - ### [Kahvilaskuri](https://github.com/LaplandUAS/Coffee-Tally)
 - ### Mäskitikku (NOURL)
 - ### Metsälaidun (NOURL)
