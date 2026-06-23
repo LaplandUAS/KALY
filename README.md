@@ -12,6 +12,7 @@ Tämä repositorio sisältää hakemiston KÄLY:n julkisiin projektimateriaaleih
 - ### Metsälaidun (NOURL)
 - ### Hitsauslämmitysvahti (NOURL)
 - ### Älyohjattu savustuspönttö (NOURL)
+- ### 360-kameran käyttö Droonin kanssa (NOURL)
 
 -----
 <picture>
