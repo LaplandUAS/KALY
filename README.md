@@ -10,6 +10,8 @@ Tämä repositorio sisältää hakemiston KÄLY:n julkisiin projektimateriaaleih
 - ### [Kahvilaskuri](https://github.com/LaplandUAS/Coffee-Tally)
 - ### Mäskitikku (NOURL)
 - ### Metsälaidun (NOURL)
+- ### Hitsauslämmitysvahti (NOURL)
+- ### Älyohjattu savustuspönttö (NOURL)
 
 -----
 <picture>
