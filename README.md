@@ -3,7 +3,9 @@
 KÄLY (Kestävät älyratkaisut) on Lapin AMK:n hallinnoima hanke, jossa kytketään kestävyyttä, kiertotaloutta ja vastuullisuutta yhteen digitaalisuuden ja älyratkaisujen kanssa.
 Tämä repositorio sisältää hakemiston KÄLY:n julkisiin projektimateriaaleihin.
 
-# Hanketavoitteista lyhyt kappale
+# Hankkeen tavoitteet
+Hankkeen tavoitteena on kartoittaa ja kehittää älykkäitä, energiatehokkuutta parantavia ratkaisuja erityisesti arktisiin olosuhteisiin. Hankkeessa selvitetään olemassa olevien teknologioiden (kuten robotiikka, LoRa, tekoäly, dronet ja materiaalitutkimus) hyödyntämismahdollisuuksia sekä tunnistetaan niiden kehitystarpeita ja uusia sovelluskohteita. Samalla etsitään kestäviä ja innovatiivisia ratkaisuja sekä edistetään kiertotalouden huomioimista osana digitaalista kehitystä.
+Hankkeessa toteutetaan myös käytännön demonstraatioita, kootaan tulokset julkaisuun ja osallistetaan alueen yrityksiä yhteistyöhön työpajojen ja viestinnän avulla, tavoitteena vahvistaa älyratkaisujen käyttöä ja kehittämistä alueella.
 
 ## Projektit
 - ### [Verijälki](https://github.com/LaplandUAS/BloodTrail-Drone)
