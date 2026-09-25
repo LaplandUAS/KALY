@@ -10,11 +10,11 @@ Hankkeessa toteutetaan myös käytännön demonstraatioita, kootaan tulokset jul
 ## Projektit
 - ### [Verijälki](https://github.com/LaplandUAS/BloodTrail-Drone)
 - ### [Kahvilaskuri](https://github.com/LaplandUAS/Coffee-Tally)
-- ### [Mäskitikku] (https://github.com/LaplandUAS-Projects/MashStick)
+- ### [Mäskitikku](https://github.com/LaplandUAS-Projects/MashStick)
 - ### Metsälaidun (NOURL)
-- ### [Hitsauslämmitysvahti] (https://github.com/LaplandUAS-Projects/PreheatingAlert)
-- ### [Älyohjattu savustuspönttö] (https://github.com/LaplandUAS-Projects/DigiSmoker)
-- ### [360-kameran käyttö Droonin kanssa] (https://github.com/LaplandUAS-Projects/360-DegreeDroneView)
+- ### [Hitsauslämmitysvahti](https://github.com/LaplandUAS-Projects/PreheatingAlert)
+- ### [Älyohjattu savustuspönttö](https://github.com/LaplandUAS-Projects/DigiSmoker)
+- ### [360-kameran käyttö Droonin kanssa](https://github.com/LaplandUAS-Projects/360-DegreeDroneView)
 
 -----
 <picture>
